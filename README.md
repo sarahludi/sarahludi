@@ -1,1 +1,1 @@
-#### BEM VINDO  :smiley:
+#### BEM VINDO! :smiley:
